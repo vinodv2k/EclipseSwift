@@ -1,0 +1,19 @@
+# Build output
+build/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Xcode / Swift
+*.xcodeproj/
+*.xcworkspace/
+.build/
+DerivedData/
+*.resolved
+
+# Editor
+.vscode/
+*.swp
+*~

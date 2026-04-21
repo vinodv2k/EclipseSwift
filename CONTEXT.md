@@ -4,6 +4,11 @@
 This file provides persistent context for AI coding sessions working on the
 Eclipse Photography Tool. **Read this file at the start of every session.**
 
+## Repository
+**GitHub**: https://github.com/vinodv2k/EclipseSwift
+**Local**:  `/Users/jai/Documents/Eclipse/EclipseApp`
+**Remote**: `origin → https://github.com/vinodv2k/EclipseSwift.git`
+
 ---
 
 ## 1. Always Reference SonyCRSDK
